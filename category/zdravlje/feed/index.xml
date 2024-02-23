@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Zdravlje &#8211; Nino Flac</title>
+	<atom:link href="https://opusteno.github.io/faksprojekt//category/zdravlje/feed/" rel="self" type="application/rss+xml" />
+	<link>https://opusteno.github.io/faksprojekt/</link>
+	<description></description>
+	<lastBuildDate>Fri, 23 Feb 2024 13:20:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>Važnost joga terapije i tajna daha</title>
+		<link>https://opusteno.github.io/faksprojekt//2024/02/23/vaznost-joga-terapije-i-tajna-daha/</link>
+					<comments>https://opusteno.github.io/faksprojekt//2024/02/23/vaznost-joga-terapije-i-tajna-daha/#respond</comments>
+		
+		<dc:creator><![CDATA[nflac]]></dc:creator>
+		<pubDate>Fri, 23 Feb 2024 13:20:19 +0000</pubDate>
+				<category><![CDATA[Zdravlje]]></category>
+		<guid isPermaLink="false">https://opusteno.github.io/faksprojekt//?p=37</guid>
+
+					<description><![CDATA[Udruga za jogu i promicanje zdravog načina života Ayana pod pokroviteljstvom Veleposlanstva Indije i Grada Ludbrega priredila je obilježavanje Međunarodnog]]></description>
+										<content:encoded><![CDATA[
+<p>Udruga za jogu i promicanje zdravog načina života Ayana pod pokroviteljstvom Veleposlanstva Indije i Grada Ludbrega priredila je obilježavanje Međunarodnog dana joge. Osim za zdravlje, dobra je za unutarnji mir i zadovoljstvo. Drago mi je da se joga slavi i u Hrvatskoj od 2015. godine i da taj interes širom svijeta raste iz godine u godinu – rekao je Srivastrava dodavši kako je cijela filozofija joge kreiranje zajedništva što je važnije od same fizičke aktivnosti.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://opusteno.github.io/faksprojekt//2024/02/23/vaznost-joga-terapije-i-tajna-daha/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
